@@ -1,0 +1,12 @@
+{
+    "name": "wjj871125/golearn",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wangjianjia",
+            "email": "wangjianjia@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
