@@ -8,5 +8,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "psr-4": {"Golearn\\": "src/"}
 }
