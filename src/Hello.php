@@ -4,6 +4,6 @@ namespace Golearn;
 
 class Hello {
 	function func() {
-		echo "func\n";
+		echo "hello func\n";
 	}
 }
